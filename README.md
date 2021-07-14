@@ -1,1 +1,1 @@
-# -CT073-3-2-Computer-System-Low-Level-Techniques-CSLLT-
+CSLLT is an x64 assembly language. Code such as a simple system, a parking system is here. Feel free to check it out. :)
